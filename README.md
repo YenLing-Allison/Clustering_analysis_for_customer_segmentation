@@ -13,6 +13,7 @@ distributed across different channels or regions?
 
 Resrources:  
 Dataset contains 440 clients and their annual spending (in a standardized monetary unit). Each record corresponds to a client, and contains a client's region, channel, as well as the client's annual spending across 6 product categories.  
+
 Dataset: [Wholesale customers data.csv](https://github.com/YenLing-Allison/Clustering_analysis_for_customer_segmentation/blob/8df230f5f9b0ec85906089c8c89e10cd7f4ad8d3/Wholesale%20customers%20data.csv)
 
 Technical Document: [Clustering_analysis.R](https://github.com/YenLing-Allison/Clustering_analysis_for_customer_segmentation/blob/8df230f5f9b0ec85906089c8c89e10cd7f4ad8d3/Clustering_analysis.R)
