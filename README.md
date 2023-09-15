@@ -18,7 +18,7 @@ Dataset: [Wholesale customers data.csv](https://github.com/YenLing-Allison/Clust
 
 Technical Document: [Clustering_analysis.R](https://github.com/YenLing-Allison/Clustering_analysis_for_customer_segmentation/blob/8df230f5f9b0ec85906089c8c89e10cd7f4ad8d3/Clustering_analysis.R)
 
-In the project, the logic of my analyses is below:
+In the project, the logic of my analyses is below:  
 A. Cleaning data  
 B. Simple exploratory data analysis and descriptive statistic  
 C. Calculate dataset distances  
