@@ -34,5 +34,4 @@ Technical Document: [Clustering_analysis.R](https://github.com/YenLing-Allison/C
 #### Cluster 2: With the most customers 57.8%, but their average annual spending is the lowest, 20K.
 #### Cluster 3: 25.68% customers, and they focus more on fresh product.
 #### Cluster 4: The minimum number of customers, but they are the most potential group, because they spend the highest average annual spending on XYZ retail, 75K.
-[<img width="1115" alt="截圖 2023-03-01 上午10 39 15" src="https://user-images.githubusercontent.com/102202557/222210897-ead95107-e80a-47a3-893f-61bf6bcacb6b.png">
-](https://github.com/YenLing-Allison/Clustering_analysis_for_customer_segmentation/blob/639c4fcea1b25562b0d02d6d623915c5dba1649d/clustering_analysis.png)https://github.com/YenLing-Allison/Clustering_analysis_for_customer_segmentation/blob/639c4fcea1b25562b0d02d6d623915c5dba1649d/clustering_analysis.png
+[clustering_analysis.png](https://github.com/YenLing-Allison/Clustering_analysis_for_customer_segmentation/blob/639c4fcea1b25562b0d02d6d623915c5dba1649d/clustering_analysis.png)
